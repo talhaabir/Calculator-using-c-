@@ -1,0 +1,11 @@
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.csproj.AssemblyReference.cache
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR_Assignment.Form1.resources
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR_Assignment.Properties.Resources.resources
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.csproj.GenerateResource.cache
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\bin\Debug\CALCULATOR Assignment.exe.config
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\bin\Debug\CALCULATOR Assignment.exe
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\bin\Debug\CALCULATOR Assignment.pdb
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.exe
+C:\Users\Piyal\source\repos\CALCULATOR Assignment\obj\Debug\CALCULATOR Assignment.pdb
